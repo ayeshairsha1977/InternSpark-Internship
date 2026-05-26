@@ -1,0 +1,15 @@
+2026-05-26 13:46:33,093 - Moved 3idiot.mkv to Movies
+2026-05-26 13:46:33,096 - Moved assignment.docx to Documents
+2026-05-26 13:46:33,098 - Moved day.pdf to Documents
+2026-05-26 13:46:33,107 - Moved doreamon.jpg to Images
+2026-05-26 13:46:33,109 - Moved homeWork.txt to Documents
+2026-05-26 13:46:33,113 - Moved ipd.pdf to Documents
+2026-05-26 13:46:33,116 - Moved model.png to Images
+2026-05-26 13:46:33,118 - Moved Narniya.mp4 to Movies
+2026-05-26 13:46:33,123 - Moved perfect.mp3 to Musics
+2026-05-26 13:46:33,128 - Moved potd.pdf to Documents
+2026-05-26 13:46:33,129 - Moved sahiba.mp3 to Musics
+2026-05-26 13:46:33,132 - Moved shinchan.jpeg to Images
+2026-05-26 13:48:30,292 - Move harrypotter.mp4 to C:\Users\ayesh\OneDrive\Desktop\coding\projects\2.internspark\Automation Script\downloads\Movies
+2026-05-26 13:49:00,244 - renamed model.png to aimodel.png
+2026-05-26 13:49:27,844 - potd.pdf is deleted successfully!
